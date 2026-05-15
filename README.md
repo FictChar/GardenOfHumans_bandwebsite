@@ -1,5 +1,5 @@
 Garden of Humans (GOH) – Official Website
-A modern, responsive website for Garden of Humans (GOH) built with React.
+A modern, responsive website for Garden of Humans (GOH) built with HTML.
 This project showcases the band’s identity, music, and live events while providing a scalable foundation for future features.
 
 Status: In development (MVP in progress)
@@ -16,8 +16,7 @@ Build a portfolio-ready project with real-world features
 
 Tech Stack:
 
-React (Component-based architecture)
-JavaScript (ES6+)
+HTML
 CSS / SCSS
 Netlify (deployment & forms)
 
